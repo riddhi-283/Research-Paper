@@ -29,7 +29,7 @@ def main():
 
     print("\n✅ Target Paper TAIC Extracted:")
     print(f"Title: {title}\n")
-    print(f"Abstract: {abstract[:300]}...\n")  # print first 300 chars for brevity
+    print(f"Abstract: {abstract[:300]}...\n")  
     print(f"Introduction: {introduction[:300]}...\n")
     print(f"Conclusion: {conclusion[:300]}...\n")
     print(f"Authors: {target_authors}\n")
@@ -69,7 +69,6 @@ def main():
         print(f"\n✅ Faceted Summary for {pdf_file}:\n")
         print(faceted_summary, "\n")
 
-        # Simulate dummy citation spans (you can extract later properly)
         citation_spans = []
 
         cited_papers_data.append({
@@ -94,7 +93,7 @@ def main():
         relation = extract_relationship_between_papers(
             faceted_summary_A={
                 'title': title,
-                'authors': target_authors,  # You can improve by extracting later
+                'authors': target_authors, 
                 'year': target_year,
                 'summary': target_faceted_summary
             },
@@ -159,7 +158,6 @@ Usage: {usage}
     print("\n🔵 Generating Literature Review using LLM...")
     literature_review = call_gpt(filled_prompt, temperature=0.4)
 
-    # Save output
     os.makedirs('outputs/generated_reviews', exist_ok=True)
     with open('outputs/generated_reviews/literature_review.txt', 'w', encoding='utf-8') as f:
         f.write(literature_review)
