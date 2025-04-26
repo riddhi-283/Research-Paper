@@ -1,0 +1,22 @@
+You are tasked with writing a concise, coherent related work section based on the following information.
+
+Target paper:
+- Title: {title}
+- Abstract: {abstract}
+- Introduction: {introduction}
+- Conclusion: {conclusion}
+
+Main Ideas for the Literature Review:
+{main_ideas}
+
+List of cited papers and information:
+{cited_papers_details}
+
+Instructions:
+- Write 1-3 paragraphs summarizing the related works naturally.
+- Integrate transition sentences between papers.
+- Keep the writing coherent and flowing according to the main ideas.
+- You may reorder the papers to better fit the story.
+- Do not just list summaries — build a connected story.
+
+Be factual, fluent, and avoid hallucination.

@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+.env/
+.envrc
+.venv/
+.Python
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Environment variables / config
+*.env
+.env.*
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Pytest / test cache
+.cache/
+.pytest_cache/
+
+# MyPy / Type checker
+.mypy_cache/
+
+# Logs
+*.log
+
+# PDFs or generated files
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+
+# CrewAI agent-related caches (if any)
+crew/cache/
+crew/.cache/
+
+# Streamlit-specific
+.streamlit/config.toml
+.streamlit/secrets.toml
+.streamlit/*.json
+.streamlit/*.txt
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Misc
+*.bak
+*.tmp

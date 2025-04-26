@@ -1,0 +1,19 @@
+We have the following sections of a paper:
+
+Title: {title}
+
+Abstract: {abstract}
+
+Introduction: {introduction}
+
+Conclusion: {conclusion}
+
+Based on the above, provide a concise faceted summary with the following format:
+
+Objective: <state the main objective of the paper>.
+Method: <briefly describe the method or approach used>.
+Findings: <highlight key findings or results>.
+Contribution: <explain the contributions made by the paper>.
+Keywords: <list 3-6 important keywords, separated by semicolons>.
+
+Be compact, clear, and specific.

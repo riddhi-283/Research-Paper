@@ -1,0 +1,15 @@
+We want to summarize how the cited paper ({author_B} et al., {year_B}) is generally used across other citing papers.
+
+Here are relationships and example citations:
+{relations_text}
+{citation_spans_text}
+
+Based on the above, in 1-2 sentences, answer:
+
+- What {author_B} et al. ({year_B}) is mainly known for
+- Whether it is mainly cited for a method, background, comparison, or tool.
+
+Format:
+"{author_B} et al. ({year_B}) is known for <X> and is primarily cited for <Y>."
+
+Be natural and concise.

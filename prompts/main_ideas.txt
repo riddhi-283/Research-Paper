@@ -1,0 +1,17 @@
+We are summarizing the related work section of a research paper.
+
+Here is the Title of the paper:
+{title}
+
+Faceted Summary of the paper:
+{faceted_summary}
+
+Human-Written Related Work Section:
+{related_work_section}
+
+Your task:  
+Summarize the main ideas and themes discussed in this related work section in 3-5 sentences.  
+Do NOT copy specific citations.  
+Focus only on the broad story and key topics.
+
+Be brief, general, and high-level.

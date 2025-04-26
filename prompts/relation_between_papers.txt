@@ -1,0 +1,15 @@
+Faceted Summary of the citing paper (Paper A):
+{faceted_summary_A}
+
+Faceted Summary of the cited paper (Paper B):
+{faceted_summary_B}
+
+Citation Contexts where Paper A cites Paper B:
+{citation_context}
+
+Now, based on the above, briefly explain the relationship between Paper A and Paper B.
+Summarize the relationship in 1-2 sentences, stating how A uses or builds upon B.
+
+Write your answer as:
+
+Paper A ({title_A}, {year_A}) relates to Paper B ({title_B}, {year_B}) by <explanation>.
