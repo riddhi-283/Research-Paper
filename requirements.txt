@@ -5,3 +5,4 @@ PyMuPDF
 lxml
 rouge-score
 tqdm
+faiss-cpu

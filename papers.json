@@ -1,0 +1,314 @@
+[
+  {
+    "paperId": "2fe90de6946e7c34dadacddf27320584e6fab5c5",
+    "url": "https://www.semanticscholar.org/paper/2fe90de6946e7c34dadacddf27320584e6fab5c5",
+    "title": "A Deep Learning Based Image Processing Technique for Early Lung Cancer Prediction",
+    "abstract": "Lung cancer is the primary cause of cancer mor-tality all over the world due to the increase of tobacco consumption, and industrialization in developing nations. As the early-stage diagnosis can reduce the mortality rate significantly, early detection with the availability of high-tech Medical facilities is highly necessary. In this research, we used deep learning (DL) methods initially on patient's 1190 CT scan images from the Kaggle IQ-OTH lung cancer dataset, and after significant image preprocessing steps we found augmented images including normal, malignant, and benign cases to identify high-risk in-dividuals to detect lung cancer and also predict the malignancy and thus, taking early actions to prevent long-term consequences. A thorough performance comparison between several classifiers, including the conventional CNN, Resnet50, and InceptionV3, has been presented. Here, affine transformation, gaussian noise, and other rigorous image preprocessing techniques are used. The contribution obtained a 98% validation accuracy while reducing the model's complexity with the previous preprocessing stage. The comparison method shows that the suggested preprocessing method yields a higher F1 score value of 97%, validating our suggested methodology.",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICETSIS61505.2024.10459494?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICETSIS61505.2024.10459494, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2065954835",
+        "name": "Nowshin Tasnim"
+      },
+      {
+        "authorId": "2292332162",
+        "name": "Kazi Rifah Noor"
+      },
+      {
+        "authorId": "2292341009",
+        "name": "Mursalina Islam"
+      },
+      {
+        "authorId": "2282576013",
+        "name": "Mohammad Nurul Huda"
+      },
+      {
+        "authorId": "2242661014",
+        "name": "Iqbal H. Sarker"
+      }
+    ]
+  },
+  {
+    "paperId": "14b822904240247d63fee40e79e9d7c75e43750c",
+    "url": "https://www.semanticscholar.org/paper/14b822904240247d63fee40e79e9d7c75e43750c",
+    "title": "Unified deep learning models for enhanced lung cancer prediction with ResNet-50\u2013101 and EfficientNet-B3 using DICOM images",
+    "abstract": "Significant advancements in machine learning algorithms have the potential to aid in the early detection and prevention of cancer, a devastating disease. However, traditional research methods face obstacles, and the amount of cancer-related information is rapidly expanding. The authors have developed a helpful support system using three distinct deep-learning models, ResNet-50, EfficientNet-B3, and ResNet-101, along with transfer learning, to predict lung cancer, thereby contributing to health and reducing the mortality rate associated with this condition. This offer aims to address the issue effectively. Using a dataset of 1,000 DICOM lung cancer images from the LIDC-IDRI repository, each image is classified into four different categories. Although deep learning is still making progress in its ability to analyze and understand cancer data, this research marks a significant step forward in the fight against cancer, promoting better health outcomes and potentially lowering the mortality rate. The Fusion Model, like all other models, achieved 100% precision in classifying Squamous Cells. The Fusion Model and ResNet-50 achieved a precision of 90%, closely followed by EfficientNet-B3 and ResNet-101 with slightly lower precision. To prevent overfitting and improve data collection and planning, the authors implemented a data extension strategy. The relationship between acquiring knowledge and reaching specific scores was also connected to advancing and addressing the issue of imprecise accuracy, ultimately contributing to advancements in health and a reduction in the mortality rate associated with lung cancer.",
+    "openAccessPdf": {
+      "url": "https://bmcmedimaging.biomedcentral.com/counter/pdf/10.1186/s12880-024-01241-4",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10946139, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2310862692",
+        "name": "Vinod Kumar"
+      },
+      {
+        "authorId": "2280546317",
+        "name": "Chander Prabha"
+      },
+      {
+        "authorId": "2281039533",
+        "name": "Preeti Sharma"
+      },
+      {
+        "authorId": "2238503742",
+        "name": "Nitin Mittal"
+      },
+      {
+        "authorId": "2178381445",
+        "name": "S. S. Askar"
+      },
+      {
+        "authorId": "2275225835",
+        "name": "Mohamed Abouhawwash"
+      }
+    ]
+  },
+  {
+    "paperId": "404a776912f98225bc874717907f7a7aa3275e7c",
+    "url": "https://www.semanticscholar.org/paper/404a776912f98225bc874717907f7a7aa3275e7c",
+    "title": "Non-image lung cancer prediction utilizing KNN model promoting health consciousness",
+    "abstract": "\u00a0One of the most prevalent types of cancer worldwide, lung cancer, has a high mortality rate. Imaging sets are commonly used for lung cancer diagnosis. However, imaging sets have limitations in terms of accuracy that can cause false negative cases, which leads to delayed treatment due to late diagnosis, ultimately reducing patients\u2019 survival rates. Societies with low income might need a more economical way to predict lung cancer since the imaging sets require a significant amount of money. This study uses a secondary dataset that contains non-image data such as demographics, lifestyle, and symptoms to create a model to detect lung cancer. The performance of several machine learning models, including SVM, Decision Tree, ANN, Logistic Regression, Random Forest, XGBoost, AdaBoost, Gradient Boost, Light Gradient Boosting, KNN, and Naive Bayes, is compared after the dataset has been preprocessed and divided into training and testing data. It is found that lung cancer is more likely to be diagnosed in females and those with any allergies, alcohol consumption, or difficulty swallowing. Next, it is shown that the KNN model is the best model, with an accuracy of 96.39%, a precision score of 100%, and an F1-score of 97.81%, despite having the lowest recall score among other models. A successful prediction model eases the burden on low-income families to predict the possibility of disease occurrence without spending money on X-rays, thus increasing health consciousness.",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.53894/ijirss.v8i1.5040?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.53894/ijirss.v8i1.5040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "27011769",
+        "name": "Ting Tin Tin"
+      },
+      {
+        "authorId": "2348614849",
+        "name": "Chow Mun Chun"
+      },
+      {
+        "authorId": "2348610927",
+        "name": "Lim Yong Zhe"
+      },
+      {
+        "authorId": "2348605956",
+        "name": "Hii Puong Tih"
+      },
+      {
+        "authorId": "2348606144",
+        "name": "Chan Man Tze"
+      }
+    ]
+  },
+  {
+    "paperId": "eba14acc3f9fd289851f2fdda323b790b9cd385b",
+    "url": "https://www.semanticscholar.org/paper/eba14acc3f9fd289851f2fdda323b790b9cd385b",
+    "title": "Lung Cancer Prediction Using Inception V3 Based CNNs Using Histopathological Images",
+    "abstract": "Lung cancer remains a significant global health challenge, necessitating accurate and timely diagnosis for effective treatment and improved patient outcomes. In recent years, deep learning techniques have shown promise in medical image analysis. This approach for accurate lung cancer prediction using InceptionV3-based Convolutional Neural Networks(CNNs) trained on histopathological images. The Inception v3 architecture, renowned for its efficacy in image classification tasks, serves as the foundation for our predictive model. The research begins with the acquisition of a comprehensive dataset comprising histopathological images of lung tissue samples, meticulously annotated to denote cancerous and non-cancerous regions. Training involves optimizing the model's parameters on the training set, while validation ensures optimal hyper parameter selection to mitigate over fitting . Preprocessing techniques, including resizing ,normalization, and augmentation, are applied to enhance data quality and variability. Integration into user-friendly interfaces or healthcare systems enables clinicians to upload histopathological images for lung cancer prediction.",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.56726/irjmets53116",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.56726/irjmets53116?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56726/irjmets53116, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2298788468",
+        "name": "Dr. S. Ilangovan"
+      },
+      {
+        "authorId": "2298791473",
+        "name": "Mr. S. Siva"
+      },
+      {
+        "authorId": "2298792066",
+        "name": "Mr. S. Sivabalan"
+      },
+      {
+        "authorId": "2298792318",
+        "name": "Mr. B. Srinivasan"
+      }
+    ]
+  },
+  {
+    "paperId": "db7b041874eee48dcf7d43861fe06f10e6c96e9c",
+    "url": "https://www.semanticscholar.org/paper/db7b041874eee48dcf7d43861fe06f10e6c96e9c",
+    "title": "An Efficient Framework for Lung Cancer Prediction Using LBP Extraction and Cascaded CNN",
+    "abstract": "Lung cancer, which affects both men and women, is currently the leading cause of cancer related fatalities globally. Lung cancer is mostly caused by smoking. It is thought that 90% to 95% of cases of lung cancer begin in the epithelial cells lining the bigger and smaller airways (bronchi and bronchioles), while the illness can grow elsewhere in the lung. Medical responsibilities make a better treatment decision for patient diagnosis and treatment to find a lung cancer at early stage using the classification models. This study\u2019s main goal is to identify lung cancer by employing Cascaded Convolutional Neural Networks (CNN) with Local Binary Pattern and Wiener Filter. The lung image dataset is taken as the input. The lung images have been pre processed by Wiener filter. After, the processed images are segmented using the Otsu Binary Threshold method. The features of the cancer affected images are to be extracted using the Local Binary Pattern approach. This work implements in a python platform for developing a classification of lung images using the Cascaded CNN classifier. The proposed Cascaded CNN technique provides more accuracy than other classification models for predicting lung cancer. The proposed classifier shows the highest specificity 95% of and sensitivity of 94%.\n\n",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.59544/bmst3917/ijatemv03i10p2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59544/bmst3917/ijatemv03i10p2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2315883433",
+        "name": "L. P"
+      }
+    ]
+  },
+  {
+    "paperId": "43675aa4ef129069eb843ed6b60f73aaed06c2ed",
+    "url": "https://www.semanticscholar.org/paper/43675aa4ef129069eb843ed6b60f73aaed06c2ed",
+    "title": "Enhancing Lung Cancer Prediction using Alexnet",
+    "abstract": "Lung cancer is one of the deadliest cancers and is difficult to predict. Since lung cancer frequently results in the death of the affected individual, it is necessary to treat the tumour promptly and effectively. In major medical applications, image processing techniques are commonly used in today's advanced detection and treatment procedures, where it is vital to identify abnormal tissues in the desired images. Thus several techniques have been developed to detect lung cancer in the early stages of the disease. Therefore, a comparative evaluation of various techniques based on machine learning for the detection of lung cancer has been provided. The outcome of the proposed work which uses AlexNet for the detection of lung cancer, shows an overall accuracy of 90.8%. The CTscan images of smoker\u2019s lung cancer are taken as input from the dataset repository. The developed system uses the unique algorithm i.e., AlexNet, for detecting if the lung is affected or not. Moreover, the experimental results indicate the accuracy and error rate of the algorithm.",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICC-ROBINS60238.2024.10534023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICC-ROBINS60238.2024.10534023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2302584883",
+        "name": "Gayathiri P"
+      },
+      {
+        "authorId": "2302582085",
+        "name": "Anushya R"
+      },
+      {
+        "authorId": "2302586562",
+        "name": "Nihamathullah S"
+      },
+      {
+        "authorId": "2302586571",
+        "name": "Ponraj M"
+      },
+      {
+        "authorId": "2350322893",
+        "name": "Suguna R"
+      },
+      {
+        "authorId": "2302587837",
+        "name": "Madhu R"
+      }
+    ]
+  },
+  {
+    "paperId": "b21f37a8c773b4fee6f28fabde25469918c323db",
+    "url": "https://www.semanticscholar.org/paper/b21f37a8c773b4fee6f28fabde25469918c323db",
+    "title": "Lung Cancer Prediction Using CNN and Transfer Learning",
+    "abstract": "One of the leading causes of cancer-associated death globally is lung cancer Effective therapy for different subtypes of lung cancer depends on early and precise diagnosis. A convolutional neural network (CNN)-based method for classifying several forms of lung cancer, such as adenocarcinoma, big cell carcinoma, squamous cell carcinoma, and normal lung tissues, is presented in this research. The model makes use of the Inception architecture, which was pretrained on ImageNet before a custom classification layer was added. There are 323 validation photos and 613 training images spread over four classes in the dataset. To increase model generality, image data augmentation methods including rescaling and horizontal flipping were used. During training, the final model's validation accuracy was over 70%. In order to minimize learning rate and avoid overfitting, early halting was employed to maximize training efficiency. The suggested approach shows promise for accurately and automatically classifying different forms of lung cancer, laying the groundwork for next clinical decision support systems",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.48175/ijarsct-22714?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48175/ijarsct-22714, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2304408390",
+        "name": "Dr. Smita Nirkhi"
+      },
+      {
+        "authorId": "2355997243",
+        "name": "Mr. Rohit Benibangade"
+      },
+      {
+        "authorId": "2355995445",
+        "name": "Mr. Prathmesh Mashakhetri"
+      },
+      {
+        "authorId": "2355995556",
+        "name": "Ms. Vrushali Mr. Shrikumar Nilawar"
+      },
+      {
+        "authorId": "2355994996",
+        "name": "Ms. Rutuja Katrojwar"
+      },
+      {
+        "authorId": "2355996634",
+        "name": "Pandilwar"
+      }
+    ]
+  },
+  {
+    "paperId": "bfef043787193cb9a7388545a046db3309e58155",
+    "url": "https://www.semanticscholar.org/paper/bfef043787193cb9a7388545a046db3309e58155",
+    "title": "\u201cLung Cancer Prediction Using Machine Learning: A Comprehensive Study\u201d",
+    "abstract": "Lung cancer remains one of the leading causes of cancer-related deaths worldwide, largely due to the fact that it is often diagnosed at a late stage. This research aims to develop an automated system for early detection of lung cancer using machine learning techniques. By utilizing the Lungs CT Scan Dataset from Kaggle, we implement advanced image processing methods and convolutional neural networks (CNN) to accurately identify and classify lung nodules as either benign or malignant. Our methodology includes important data preprocessing steps, such as normalization and augmentation, to enhance the performance of the model.\u201d \u201cThe results of our study show a significant improvement in detection accuracy compared to traditional diagnostic methods, with our model achieving a high accuracy rate. Additionally, our system has the potential to reduce diagnostic errors, increase early detection rates, and offer a cost-effective screening solution. By integrating this automated tool into clinical workflows, we aim to provide radiologists with reliable AI-generated insights, ultimately improving patient outcomes and easing the burden on healthcare systems.\u201d This study highlights the transformative potential of machine learning in medical diagnostics and emphasizes the importance of continued research to further optimize these technologies for clinical use..",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.48175/ijarsct-22148",
+      "status": "GOLD",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.48175/ijarsct-22148?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48175/ijarsct-22148, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2330200467",
+        "name": "Ms. Aishwarya Mandhare"
+      },
+      {
+        "authorId": "2330200164",
+        "name": "Ms. Kritika Chaudhary"
+      },
+      {
+        "authorId": "2330200415",
+        "name": "Ms. Unnati Bodkhe"
+      },
+      {
+        "authorId": "2330200100",
+        "name": "Ms. Antara Bhattacharya"
+      },
+      {
+        "authorId": "2330205502",
+        "name": "Ms. Sneha Indurkar"
+      }
+    ]
+  },
+  {
+    "paperId": "55e21e3707a63aefc0327daa09e3efc25a479f7f",
+    "url": "https://www.semanticscholar.org/paper/55e21e3707a63aefc0327daa09e3efc25a479f7f",
+    "title": "Lung Cancer Prediction using Deep Neural Networks",
+    "abstract": "Lung cancer is one of the leading diseases caused all over the world. In India one of the most occurring diseases is lung cancer and lot of people die due to the reason that it can only be cured during its initial stages. It is caused by the uncontrollable growth of cells in the lung tissues. It can only be treated in its early stages, when therapy is started. Computed Tomography (CT) scans and blood test data are used to identify this. The tumor is diagnosed by a blood test after individuals have been impacted for at least four years.\nCT scanning is used to determine the early stage of cancer. The CT pictures are divided into two categories: normal and pathological. Focusing on the tumor part of the picture reveals the aberrant image. The collection consists of Computed Tomography (CT) pictures in jpg format. The Convolutional Neural Network is used to train the suggested model (CNN). During the training, picture enlargement techniques such as zooming, cutting, horizontal filling, and twisting were used on the dataset to improve the classification success rate.\nLung cancer is detected using pre-trained ImageNet models such as LeNet, AlexNet, and VGG-16. The suggested model is based on the AlexNet model, and the features extracted from the network's final fully connected layer were used as distinct inputs to the SoftMax classifier. The combination of AlexNet and the SoftMax layer resulted in a 100 percent accuracy. The suggested methodology can be used to diagnose lung cancer in a consistent and long- term manner.",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.48175/ijarsct-17535",
+      "status": "GOLD",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.48175/ijarsct-17535?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48175/ijarsct-17535, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2297780261",
+        "name": "Smt. K S L Sruthi"
+      },
+      {
+        "authorId": "2297780607",
+        "name": "K Divya Sri"
+      },
+      {
+        "authorId": "2297781339",
+        "name": "MD Khairunnisa"
+      },
+      {
+        "authorId": "2297780010",
+        "name": "N Leela Vyshnavi"
+      }
+    ]
+  },
+  {
+    "paperId": "ff4ea1b6e46f0f43dc7a82d6982b84b0ca1a964e",
+    "url": "https://www.semanticscholar.org/paper/ff4ea1b6e46f0f43dc7a82d6982b84b0ca1a964e",
+    "title": "Lung Cancer Prediction Based on Learning Machine",
+    "abstract": "With the rapid development of big data, cloud computing and other technologies, artificial intelligence (AI) is moving from special intelligence to general intelligence and entering a new stage of development. As the core of artificial intelligence, machine algorithms have gradually penetrated various fields of artificial intelligence, making people's production and life greatly improved. After the new crown pneumonia epidemic swept the world in 2019, lung cancer prediction became a focus topic. In this paper, three classical algorithms (logistic regression, random forest and KNN) are used to predict the level and probability of lung cancer in patients in China based on the dataset of Chinese lung cancer patients in the journal Nature Medicine, and the performance of the cancer prediction model is comparatively analyzed, and several indicators of the model (score, accuracy, F1_Score, R2 Score, etc.) are analyzed. A large number of experiments have shown that these three methods will work well for lung cancer prediction, but the random forest model outperforms the other two models.",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: This abstract is extracted from the open access paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIPCA59209.2023.10257678?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIPCA59209.2023.10257678, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2248639804",
+        "name": "Ying Wang"
+      }
+    ]
+  }
+]
